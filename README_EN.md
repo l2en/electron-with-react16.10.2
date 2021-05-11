@@ -2,7 +2,7 @@
 
 [[中文]](README.md)
 
-![final](/img/main.png)
+![final](https://img04.sogoucdn.com/app/a/100520146/b85b791c53709c86622da1876102ba38)
 
 - About
 > The desktop APP model based on Electron; DEV + HMR; You can develop your own desktop applications for this repository
