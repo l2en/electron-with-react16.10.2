@@ -2,7 +2,7 @@
 
 [[中文]](README.md)
 
-![final](./img/main.png)
+![final](/img/main.png)
 
 - About
 > The desktop APP model based on Electron; DEV + HMR; You can develop your own desktop applications for this repository

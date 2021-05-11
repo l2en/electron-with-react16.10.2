@@ -2,7 +2,7 @@
 
 [[English]](README_EN.md)
 
-![final](./img/main.png)
+![final](/img/main.png)
 
 - 介绍
 > 这是一个简易的基于Electron的桌面应用； 你可以根据此仓库内容二次开发。 DEV阶段保留热更新，开发更友好
