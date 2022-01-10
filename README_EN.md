@@ -2,10 +2,14 @@
 
 [[中文]](README.md)
 
-![final](https://img04.sogoucdn.com/app/a/100520146/b85b791c53709c86622da1876102ba38)
+
+![](./img/main.png)
+
 
 - About
-> The desktop APP model based on Electron; DEV + HMR; You can develop your own desktop applications for this repository
+> The desktop APP model based on Electron; DEV + HMR; 
+  You can develop your own desktop applications based on this repository
+
 
 
 - Technologies Used
@@ -13,5 +17,7 @@
   - Any FE-technology you want
 
 
+
+
 - more
-  [see there](https://www.jianshu.com/p/ea0852003209)
+  [see here](https://www.jianshu.com/p/ea0852003209)
