@@ -82,7 +82,7 @@
     ]
   },
   "devDependencies": {
-    "electron": "^6.0.12"
+    "electron": "^13.6.6"
   },
   "jest": {
     "roots": [
